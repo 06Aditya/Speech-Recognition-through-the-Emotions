@@ -119,3 +119,11 @@ Speech-Emotion-Recognition/
 * Deploy as a real-time application
 
 ---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/aditxya/
+
+---
+
+If you found this project useful, consider giving it a ⭐
